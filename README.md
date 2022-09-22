@@ -52,7 +52,7 @@ This Python script converts the Speech input into Text using NLP (Natural Langau
 -   Run converter_terminal.py script
 -   Output Text will be displayed
 
-# CONVERT_JPEG_to_PNG
+# Convert_JPEG_to_PNG
 
 This project contains a simply python script to change file extension from .jpeg to .png
 
