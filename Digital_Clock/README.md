@@ -13,4 +13,4 @@ This script create a digital clock as per the system's current time.
 
 ### Screenshot/GIF showing the sample use of the script
 
-![Digital Clock Output]((https://github.com/rohitchandra781/Python_Project/blob/main/Digital_Clock/Output.png)
+![Digital Clock Output](https://github.com/rohitchandra781/Python_Project/blob/main/Digital_Clock/Output.png)
