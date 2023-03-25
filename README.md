@@ -71,3 +71,20 @@ I accomplished this task in two ways
 
 ### Using GUI
 Just run the converter_GUI.py script and pick any jpeg image from any location and then press 'Convert Jpeg to Png'
+
+# Digital Clock using Python and Tkinter
+This script create a digital clock as per the system's current time.
+
+## Library Used
+* tkinter
+* time
+
+### To install required external modules
+* Run `pip install tkinter` 
+
+### How to run the script
+- Execute `python3 digital_clock.py`
+
+### Screenshot/GIF showing the sample use of the script
+
+![Digital Clock Output](https://github.com/rohitchandra781/Python_Project/blob/main/Digital_Clock/Output.png)
